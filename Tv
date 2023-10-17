@@ -1,0 +1,135 @@
+#EXTM3U
+
+
+#EXTINF:-1, tvg-id="MX | LAS STRELLAS" tvg-name="MX | LAS STRELLAS " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png"group-title="MÉXICO 🇲🇽", 1 | 🛰️LAS STRELLAS HD
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1, tvg-id="MX | VIVO PLAY" tvg-name="MX | VIVO PLAY " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/VIVOplay_logo.png"group-title="MÉXICO 🇲🇽", 2 | 🛰️VIVO PLAY HD
+https://linear-260.frequency.stream/dist/vix/260/hls/master/playlist_1024x576.m3u8
+
+#EXTINF:-1, tvg-id="MX | N+ MÉDIA "
+tvg-name="MX | N+ MÉDIA"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0vcytMcgUttvHjCATCf4JqVbAWbowToTNww&usqp=CAU"group-title="MÉXICO 🇲🇽", 3 | 🛰️N+ MÉDIA HD
+https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index_5.m3u8
+
+#EXTINF:-1, tvg-id="MX | ONCE TV"
+tvg-name="MX | ONCE TV"
+tvg-logo="https://brandslogos.com/wp-content/uploads/images/once-tv-mexico-logo.png"group-title="MÉXICO🇲🇽", 4  | 🛰️ONCE TV HD
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+
+#EXTINF:-1, tvg-id="MX | UNIVISION LATAM"
+tvg-name="MX | UNIVISION LATAM"
+tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr7x88osugv3BwPJORWdE9XC-2HDmkzSg6vw&usqp=CAU"group-title="MÉXICO🇲🇽", 5  |🛰️ UNIVISION LATAM HD
+https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
+
+#EXTINF:-1, tvg-id="CR | TICAVISION"
+tvg-name="CR | TICAVISION"
+tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfbcflD6Xth5YqR-XkcDPHjNtxX-4-Xo32Rs_rAb6AB3LL9EzdLKu1uME&s=10"group-title="COSTA RICA 🇨🇷", 6  |
+https://62fc643fbf1aa.streamlock.net/HBTV/HBTV/chunklist_w1905177099.m3u8
+
+#EXTINF:-1, tvg-id="GUA | TV CUATRO 4"
+tvg-name="GUA | TV CUATRO 4"
+tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1I_ZjZTqHiPkJkD4M3xxaqnM122nfVbPSfkUypW4G3LXnUj_8Mrw-3W01&s=10"group-title="GUATEMALA 🇬🇹", 7  | TV CUATRO 4 HD
+https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
+
+#EXTINF:-1, tvg-id="GUA | CANAL 7"
+tvg-name="GUA | CANAL 7"
+tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-mrq2DyyJLUx-kLibpuISypG7Uzl6GomcnA&usqp=CAU "group-title="GUATEMALA 🇬🇹", 8  | 🛰️CANAL 7 HD
+http://190.149.66.90:4000/play/a01g/index.m3u8
+
+#EXTINF:-1, tvg-id="MX | ITV DEPORTE"
+tvg-name="MX | ITV DEPORTE"
+tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZd_gjw_mYaEcp37FLd_k8IZ95TzL3hhrdpw&usqp=CAU"group-title="MÉXICO🇲🇽", 9  | ITV DEPORTE
+https://stream.ads.ottera.tv/cl/231013ckkkd2ch32dr4cf55khg/1280x720_4214276_1_f.m3u8?i=475_3010
+
+#EXTINF:-1, tvg-id="AR  | Al-ARABIYA"
+tvg-name="AR  | AL-ARABIYA"
+tvg-logo="https://seeklogo.com/images/A/al-arabiya-logo-E8E441B937-seeklogo.com.png" group-title=" ARÁBIA🇸🇦", 10  | 🛰️Al-ARABIYA FHD
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/alarabiya_1080p_chunks.m3u8
+
+#EXTINF:-1 tvg-id="AR  | Al-MADINAH" tvg-name="Live Madinah HD"
+tvg-logo="https://upload.wikimedia.org/wikipedia/ar/2/2f/%D8%B4%D8%B9%D8%A7%D8%B1_%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%B3%D9%86%D8%A9_%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A%D8%A9%D8%8C_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9.png"group-title="ARABIC 🇸🇦", 11 | 🛰️TV SUNNAH  HD
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AR  | Al-MASHHAD"
+tvg-name="AR  | AL-MASHHAD" tvg-logo="https://almashhad.com/images/apple-touch-icon.png"group-title="ARABIC🇸🇦", 12 | 🛰️ Al-MASHHAD"
+https://bcovlive-a.akamaihd.net/20c3ca22be3c4f03b30afbf3c92cfd14/ap-south-1/6313884884001/profile_2/chunklist.m3u8
+
+
+#EXTINF:-1Al-SHARJAN
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AR  | BEIN SPORT NEWS" tvg-name="AR  | BEIN SPORT NEWS"
+tvg-logo="https://www.beinsports.com/favicon/ms-icon-144x144.png"
+group-title="SPORTS", 14  | 🛰️BEIN SPORT NEWS 🇸🇦HD 
+http://ipc.proipciptv.com:8000/live/wasim.808/andron.808/61390.ts
+
+#EXTINF:-1 tvg-id="AR  | BEIN SPORT 1" tvg-name="AR  | BEIN SPORT 1"
+tvg-logo="https://www.beinsports.com/favicon/ms-icon-144x144.png"
+group-title="SPORTS", 15  | 🛰️BEIN SPORT🇸🇦 1 HD 
+http://ipc.proipciptv.com:8000/live/wasim.808/andron.808/42028.ts
+
+#EXTINF:-1 tvg-id="AR  | BEIN SPORT 2" tvg-name="AR  | BEIN SPORT 2"
+tvg-logo="https://www.beinsports.com/favicon/ms-icon-144x144.png"
+group-title="SPORTS", 16  | 🛰️BEIN SPORT🇸🇦 2 HD 
+http://ipc.proipciptv.com:8000/live/wasim.808/andron.808/42027.ts
+
+#EXTINF:-1 tvg-id="AR  | BEIN SPORT 3" tvg-name="AR  | BEIN SPORT 3"
+tvg-logo="https://www.beinsports.com/favicon/ms-icon-144x144.png"
+group-title="SPORTS", 17  | 🛰️BEIN SPORT🇸🇦 3 HD 
+http://ipc.proipciptv.com:8000/live/wasim.808/andron.808/42027.ts
+
+#EXTINF:-1 tvg-id="AR  | BEIN SPORT 4" tvg-name="AR  | BEIN SPORT 4"
+tvg-logo="https://www.beinsports.com/favicon/ms-icon-144x144.png"
+group-title="SPORTS", 18 | 🛰️BEIN SPORT 🇸🇦4 HD 
+http://ipc.proipciptv.com:8000/live/wasim.808/andron.808/42025.ts
+
+#EXTINF:-1 tvg-id="AR  | BEIN SPORT 5" tvg-name="AR  | BEIN SPORT 5"
+tvg-logo="https://www.beinsports.com/favicon/ms-icon-144x144.png"
+group-title="SPORTS", 19 | 🛰️BEIN SPORT🇸🇦 5 HD 
+http://ipc.proipciptv.com:8000/live/wasim.808/andron.808/42024.ts
+
+#EXTINF:-1 tvg-id="AR  | BEIN SPORT 6" tvg-name="AR  | BEIN SPORT 6"
+tvg-logo="https://www.beinsports.com/favicon/ms-icon-144x144.png"
+group-title="SPORTS", 20 | 🛰️BEIN SPORT 🇸🇦6 HD 
+http://ipc.proipciptv.com:8000/live/wasim.808/andron.808/42023.ts
+
+#EXTINF:-1 tvg-id="AR  | BEIN SPORT 7" tvg-name="AR  | BEIN SPORT 7"
+tvg-logo="https://www.beinsports.com/favicon/ms-icon-144x144.png"
+group-title="SPORTS", 21 | 🛰️BEIN SPORT🇸🇦 7 HD 
+http://ipc.proipciptv.com:8000/live/wasim.808/andron.808/42022.ts
+
+#EXTINF:-1 tvg-id="AR  | BEIN SPORT 8" tvg-name="AR  | BEIN SPORT 8"
+tvg-logo="https://www.beinsports.com/favicon/ms-icon-144x144.png"
+group-title="SPORTS", 22 | 🛰️BEIN SPORT 🇸🇦8 HD 
+http://ipc.proipciptv.com:8000/live/wasim.808/andron.808/42021.ts
+
+#EXTINF:-1 tvg-id="AR  | AD-SPORT PREMIUM" tvg-name="AR  | AD-SPORT PREMIUM"
+tvg-logo="https://adsports.ae/images/fevicon.png?v=12.1"
+group-title="SPORTS", 24 | 🛰️ AD-SPORT PREMIUM 1 🇸🇦HD 
+http://ipc.proipciptv.com:8000/live/wasim.808/andron.808/161260.ts
+
+#EXTINF:-1 tvg-id="AR  | AD-SPORT PREMIUM" tvg-name="AR  | AD-SPORT PREMIUM"
+tvg-logo="https://adsports.ae/images/fevicon.png?v=12.1"
+group-title="SPORTS", 25 | 🛰️ AD-SPORT PREMIUM 2 🇸🇦HD 
+http://ipc.proipciptv.com:8000/live/wasim.808/andron.808/161261.ts
+
+#EXTINF:-1 tvg-id="SP  | LA LIGA" tvg-name="SP  | LA LIGA"
+tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdbaugYZcnrBux7hwECFcSgV4hhdZVEFmt3g&usqp=CAU"group-title="SPORTS", 26 | 🛰️LA LIGA🇪🇸 HD
+http://ipc.proipciptv.com:8000/live/wasim.808/andron.808/162769.ts
+
+#EXTINF:-1 tvg-id="SP  | #VAMOS" tvg-name="SP  | #VAMOS"
+tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6iK549rgUaBX0uVEoVsQpCWv1tkqQfzOfeQ&usqp=CAU"group-title="SPORTS",# VAMOS🇪🇸 HD
+http://dnsplay.xyz:80/live/tkkjdhug/7qfCN2i14x/335449.ts
+
+#EXTINF:-1 tvg-id="AR  | DUBAI SPORT" tvg-name="AR  | DUBAI SPORT"
+tvg-logo="https://www.dubaisports.ae/content/dam/Common/brands1/dubai-sport.png"group-title="SPORTS", 27 | 🛰️ DUBAI SPORT 🇸🇦HD 
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.stream.smil/chunklist_b4000000.m3u8?stime=20231009193215&etime=20231016233355&token=0d4b6fc7614504522a2af
+
+#EXTINF:-1 tvg-id="RO  | DIGI SPORT HD"
+tvg-name="RO  | DIGI SPORT HD"
+tvg-logo="https://www.digisport.ro//static/theme-mobile-repo/bin/images/logo-digisport.png"group-title="SPORTS", 28 |🛰️DIGI SPORT 1 🇸🇦HD 
+http://ipc.proipciptv.com:8000/live/wasim.808/andron.808/220163.ts
+
+#EXTINF:-1, tvg-id="MX | AFFIZIONADOS"
+tvg-name="MX | AFFIZIONADOS"group-title="SPORTS", 29 |🛰️ AFFIZIONADOS 🇲🇽 HD
+http://dnsplay.xyz:80/live/tkkjdhug/7qfCN2i14x/304505.ts
